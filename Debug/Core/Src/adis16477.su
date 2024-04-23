@@ -1,0 +1,12 @@
+../Core/Src/adis16477.c:11:10:ADIS_16477_Reset	32	static
+../Core/Src/adis16477.c:33:10:ADIS_16477_Init	24	static
+../Core/Src/adis16477.c:54:10:self_test_memory	24	static
+../Core/Src/adis16477.c:72:10:self_test_sensor	24	static
+../Core/Src/adis16477.c:90:10:fac_calib_restore	24	static
+../Core/Src/adis16477.c:108:10:flash_mem_update	24	static
+../Core/Src/adis16477.c:126:10:bias_correction	24	static
+../Core/Src/adis16477.c:144:10:Burst_Read_16	48	static
+../Core/Src/adis16477.c:172:11:checksum	56	static
+../Core/Src/adis16477.c:189:8:Scale_accel	24	static
+../Core/Src/adis16477.c:195:8:Scale_gyro	24	static
+../Core/Src/adis16477.c:201:8:Scale_temp	24	static

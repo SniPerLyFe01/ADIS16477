@@ -1,0 +1,12 @@
+adis16477.c:11:10:ADIS_16477_Reset	3
+adis16477.c:33:10:ADIS_16477_Init	3
+adis16477.c:54:10:self_test_memory	2
+adis16477.c:72:10:self_test_sensor	2
+adis16477.c:90:10:fac_calib_restore	2
+adis16477.c:108:10:flash_mem_update	2
+adis16477.c:126:10:bias_correction	2
+adis16477.c:144:10:Burst_Read_16	2
+adis16477.c:172:11:checksum	3
+adis16477.c:189:8:Scale_accel	1
+adis16477.c:195:8:Scale_gyro	1
+adis16477.c:201:8:Scale_temp	1
